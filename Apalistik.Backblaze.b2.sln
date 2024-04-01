@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apalistik.Backblaze.b2", "Apalistik.Backblaze.b2\Apalistik.Backblaze.b2.csproj", "{FA57282D-0A55-413F-A250-979615541185}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apalistik.Backblaze.B2.Api.Tests", "Apalistik.Backblaze.B2.Api.Tests\Apalistik.Backblaze.B2.Api.Tests.csproj", "{42D5CFCE-807F-44ED-9A64-E04B776FF942}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Apalistik.Backblaze.B2.Api", "Apalistik.Backblaze.B2.Api\Apalistik.Backblaze.B2.Api.csproj", "{5F289810-0D41-41E0-869F-49608F50B6A0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -8,9 +10,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FA57282D-0A55-413F-A250-979615541185}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FA57282D-0A55-413F-A250-979615541185}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FA57282D-0A55-413F-A250-979615541185}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FA57282D-0A55-413F-A250-979615541185}.Release|Any CPU.Build.0 = Release|Any CPU
+		{42D5CFCE-807F-44ED-9A64-E04B776FF942}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42D5CFCE-807F-44ED-9A64-E04B776FF942}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42D5CFCE-807F-44ED-9A64-E04B776FF942}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42D5CFCE-807F-44ED-9A64-E04B776FF942}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F289810-0D41-41E0-869F-49608F50B6A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F289810-0D41-41E0-869F-49608F50B6A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F289810-0D41-41E0-869F-49608F50B6A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F289810-0D41-41E0-869F-49608F50B6A0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
